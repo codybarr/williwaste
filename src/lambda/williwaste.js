@@ -9,8 +9,8 @@ export function handler(event, context, callback) {
 
 	let message =
 		distance % 2 === 0
-			? 'Recycleables are this week'
-			: 'Recycleables are next week'
+			? 'Recyclables are this week'
+			: 'Recyclables are next week'
 
 	// show object spread works, i.e. babel works
 	// const obj = {
