@@ -3,13 +3,6 @@
 # dependencies
 /node_modules
 
-# testing
-/coverage
-
-# production
-/build
-/lambda
-
 # misc
 .DS_Store
 .env.local
